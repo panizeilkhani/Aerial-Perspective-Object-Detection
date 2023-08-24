@@ -7,14 +7,5 @@ The project centers around the Semantic Drone Dataset, focusing on the semantic 
 
 For more information, visit the dataset. (https://www.tugraz.at/index.php?id=22387)
 
-## Project Outcomes
-
-This project aims to achieve the following outcomes:
-
-1. **Identify Everyday Objects:** Utilize deep learning techniques to identify commonplace objects such as cars and roads in bird's eye view images.
-
-2. **Large-Scale Object Identification:** Train a model to recognize objects across extensive mapped areas, even allowing for identification within your local neighbourhood using sources like Google Maps.
-
-3. **Pedestrian Safety Enhancement:** Utilize the detected positioning of cars and people to flag areas where pedestrians might be at heightened risk of accidents, contributing to improved safety measures.
 
 
